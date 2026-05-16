@@ -16,7 +16,7 @@ I'm focused on creating practical solutions using modern technologies. My intere
 
 ## 🚀 Featured Projects
 
-### 📲 [APP-s](https://github.com/SHowMik024/APP-s)
+### 📲 [UniRun](https://github.com/SHowMik024/APP-s)
 Focusing on making mobile apps with Flutter tech-stack
 
 ### 🧠 [MoodBoost](https://github.com/SHowMik024/MoodBoost)
