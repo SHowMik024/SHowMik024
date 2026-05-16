@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm SHowMik024
 
-Welcome to my GitHub profile! I'm a passionate developer interested in building innovative applications across multiple domains.
-
 ## 🎯 About Me
 
 I'm focused on creating practical solutions using modern technologies. My interests span across:
