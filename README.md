@@ -17,7 +17,7 @@ I'm focused on creating practical solutions using modern technologies. My intere
 ## 🚀 Featured Projects
 
 ### 📲 [UniRun](https://github.com/SHowMik024/APP-s)
-Focusing on making mobile apps with Flutter tech-stack
+A distress signal app for uni material sharing on the run 
 
 ### 🧠 [MoodBoost](https://github.com/SHowMik024/MoodBoost)
 An AI-powered app to keep track of daily mood and reflect on them through curated contents
@@ -25,8 +25,8 @@ An AI-powered app to keep track of daily mood and reflect on them through curate
 
 ## 🌱 Currently Learning
 
-- Advanced Flutter development patterns
-- Intigrating Advanced AI Features and solutions using Python
+- Advanced Flutter development patterns.
+- Intigrating Advanced AI Features and solutions using LLM's.
   
 
 ## 💡 Let's Connect!
