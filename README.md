@@ -4,14 +4,14 @@
 
 I'm focused on creating practical solutions using modern technologies. My interests span across:
 
-- **Mobile Development** 📱 - Building apps with Flutter 
+- **Mobile Development** 📱 - Building apps with Flutter standard tech-stack 
 - **Machine Learning** 🤖 - Exploring AI and ML models with PyTorch
 - **Computer Vision** 👁️ - Working with Python and OpenCV
 
 ## 💻 Tech Stack
 
 - **Languages**: Dart, Python, JavaScript, HTML/CSS
-- **Frameworks & Libraries**: Flutter, python, OpenCV
+- **Frameworks & Libraries**: Flutter, pytorch, OpenCV
 - **Tools**: Jupyter Notebook, Git, GitHub
 
 ## 🚀 Featured Projects
@@ -26,8 +26,8 @@ An AI-powered app to keep track of daily mood and reflect on them through curate
 ## 🌱 Currently Learning
 
 - Advanced Flutter development patterns
-- Deep learning with PyTorch
-- Game development optimization
+- Intigrating Advanced AI Features and solutions using Python
+  
 
 ## 💡 Let's Connect!
 
